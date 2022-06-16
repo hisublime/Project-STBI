@@ -15,6 +15,6 @@ Based on the experiments from our research, the comparison between BM11 and BM25
 ### Score for Document Song Lyrics and Document Friends Diagram shown in the following figure:
 
 
-![download (2) (1)](https://user-images.githubusercontent.com/60679851/171991518-b9e5ff7d-41f6-46e0-8a93-ab33b490cb6e.png)
 
-![download (3) (1)](https://user-images.githubusercontent.com/60679851/171991522-fea4fff5-aecf-4313-bf46-c18a8f52af29.png)
+![download (5)](https://user-images.githubusercontent.com/60675705/173978136-b8c3f54d-32d6-4de1-b152-c9eaeab788b0.png)
+![download (4)](https://user-images.githubusercontent.com/60675705/173978140-58f23c54-1d2d-45ec-84f6-ba413a54c13e.png)
